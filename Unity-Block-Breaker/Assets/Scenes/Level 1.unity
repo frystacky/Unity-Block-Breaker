@@ -2223,6 +2223,11 @@ Prefab:
       propertyPath: m_isInputParsingRequired
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114120504566537552, guid: ae2e1307f550313429e3520c4e1e4846,
+        type: 2}
+      propertyPath: gameSpeed
+      value: 0.7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae2e1307f550313429e3520c4e1e4846, type: 2}
   m_IsPrefabAsset: 0
